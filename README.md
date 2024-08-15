@@ -53,6 +53,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=manishkr108&theme=tokyonight" />
 </a>
-<a href="https://github.com/manishkr108/convoychat">
+<!-- <a href="https://github.com/manishkr108/convoychat">
   <img height=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkr108&layout=pie&langs_count=12&theme=merko&show_icons=true&card_width=320" />
-</a>
+</a> -->
+
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MaksymRudnyi&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymRudnyi&layout=compact&&langs_count=8"/>
+</div>
