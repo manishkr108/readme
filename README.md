@@ -43,16 +43,16 @@
 
 ![Manish's github stats](https://github-readme-stats.vercel.app/api?username=manishkr108&show_icons=true&theme=radical)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight" />
+<a href="https://github.com/manishkr108/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manishkr108&repo=github-readme-stats&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=tokyonight" />
+<a href="https://github.com/manishkr108/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=manishkr108&repo=convoychat&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=manishkr108&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=merko&show_icons=true&locale=en&layout=compact&card_width=320" />
+<a href="https://github.com/manishkr108/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishkr108&theme=merko&show_icons=true&locale=en&layout=compact&card_width=320" />
 </a>
