@@ -53,6 +53,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=manishkr108&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishkr108&theme=merko&show_icons=true&locale=en&layout=compact&card_width=320" />
-</a>
+
+  <img height=200 align="center" src="" />
+[![Manish's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=manishkr108&theme=merko&show_icons=true&locale=en&layout=compact&card_width=320)]
